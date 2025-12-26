@@ -22,9 +22,9 @@ const upiLinkEl = document.getElementById("upiLink")
 const qrAmountEl = document.getElementById("qrAmount")
 
 const DEFAULT_UPI_VPA = "9583252256-3@axl"
-const DEFAULT_PAYEE_NAME = "KHERWAL BAZAAR"
+const DEFAULT_PAYEE_NAME = "UPI PYMT"
 
-const HISTORY_STORAGE_KEY = "kherwal_bazaar_payment_history_v1"
+const HISTORY_STORAGE_KEY = "upi_pymt_payment_history_v1"
 
 let items = []
 let paymentHistory = []

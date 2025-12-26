@@ -1,4 +1,4 @@
-const CACHE_NAME = 'kherwal-bazaar-billing-v1';
+const CACHE_NAME = 'upi-pymt-billing-v1';
 
 const ASSETS = [
   './',
