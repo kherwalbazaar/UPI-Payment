@@ -1,0 +1,20 @@
+{
+  "name": "UPI PYMT - Billing System",
+  "short_name": "UPI PYMT",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6aa00",
+  "theme_color": "#f6aa00",
+  "icons": [
+    {
+      "src": "./media/Icon2.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "./media/Icon2.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
